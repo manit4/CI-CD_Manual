@@ -30,7 +30,7 @@ public class UserController {
 	public String getessage() {//This is rest end-point...
 		System.out.println("inside getMessage mapping method...");
 		
-		return "hello class jenkins and updating file5....";
+		return "hello class jenkins and updating file6....";
 	}
 	
 //	@RequestMapping("/getUser")
